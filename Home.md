@@ -13,3 +13,33 @@ Welcome to the Authenticator Pro wiki!
 [Blizzard Authenticator](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Blizzard-Authenticator)
 
 [Steam](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Steam)
+
+## Frequently Asked Questions
+
+### I've entered the code and it's not working, what should I do?
+
+Make sure that the time on your device is correct. Sync with a mobile network if possible for better accuracy.
+
+### I cannot access my accounts because I cleared the data on my phone without creating a backup. Can you help me?
+
+No
+
+### Is Authenticator Pro available / coming to iOS?
+
+No and probably not. Publishing an app on the App Store requires that you pay a annual $99 fee. Furthermore, you must own Apple hardware to develop an app in the first place.
+
+### Will you implement this feature?
+
+Maybe
+
+### Can you add an icon?
+
+Yes. Create a request in a GitHub issue or [do it yourself](https://github.com/jamie-mh/AuthenticatorPro/blob/master/CONTRIBUTING.md#icons) if you like.
+
+### Can you add sync to Google Drive, OneDrive, etc...
+
+No. Syncing to cloud services would require the internet permission and heavy intrusive SDKs to support the cloud services. Also, they have a habit of changing the APIs often, which just requires more work.
+
+### How do I download the Wear OS companion app?
+
+Open Google Play on your watch and click Apps on Your Phone. You should see Authenticator Pro in the list and you can download it.

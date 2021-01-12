@@ -34,7 +34,7 @@ Maybe
 
 ### Can you add an icon?
 
-Yes. Create a request in a GitHub issue or [do it yourself](https://github.com/jamie-mh/AuthenticatorPro/blob/master/CONTRIBUTING.md#icons) if you like.
+Yes. Create a request in a GitHub issue or [do it yourself](https://github.com/jamie-mh/AuthenticatorPro/blob/master/CONTRIBUTING.md#icons) if you'd like.
 
 ### Can you add sync to Google Drive, OneDrive, etc...
 

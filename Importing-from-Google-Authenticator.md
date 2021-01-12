@@ -1,4 +1,4 @@
-Your accounts stored in Google Authenticator can be transferred to Authenticator Pro with the "Transfer Accounts" feature. The cannot be imported directly because Android security prevents apps from reading the private data of other apps.
+Your accounts stored in Google Authenticator can be transferred to Authenticator Pro with the "Transfer Accounts" feature. They cannot be imported directly because Android security prevents apps from reading the private data of other apps.
 
 The procedure is as follows:
 

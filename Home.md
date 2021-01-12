@@ -28,7 +28,7 @@ No
 
 No and probably not. Publishing an app on the App Store requires that you pay a annual $99 fee. Furthermore, you must own Apple hardware to develop an app in the first place.
 
-### Will you implement this feature?
+### Will you implement [feature]?
 
 Maybe
 

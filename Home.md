@@ -40,6 +40,10 @@ Yes. Create a request in a GitHub issue or [do it yourself](https://github.com/j
 
 No. Syncing to cloud services would require the internet permission and heavy intrusive SDKs to support the cloud services. Also, they have a habit of changing the APIs often, which just requires more work.
 
+### Does Authenticator Pro support [service]?
+
+Probably. Authenticator Pro supports TOTP, HOTP and mOTP which covers most of the services. You can find a list of some of the supported services here: [Two Factor Auth List](https://twofactorauth.org/) (marked with "software token").
+
 ### How do I download the Wear OS companion app?
 
 Open Google Play on your watch and click Apps on Your Phone. You should see Authenticator Pro in the list and you can download it.

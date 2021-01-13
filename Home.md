@@ -38,7 +38,7 @@ Yes. Create a request in a GitHub issue or [do it yourself](https://github.com/j
 
 ### Can you add sync to Google Drive, OneDrive, etc...
 
-No. Syncing to cloud services would require the internet permission and heavy intrusive SDKs to support the cloud services. Also, they have a habit of changing the APIs often, which just requires more work.
+No. Syncing to cloud services would require the internet permission and heavy intrusive SDKs to support them. Also, they have a habit of changing the APIs often, which just requires more work.
 
 ### Does Authenticator Pro support [service]?
 

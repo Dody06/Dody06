@@ -1,4 +1,4 @@
-Authenticator Pro can generate the 7 digit codes used by Authy. Unfortunately, there is no way to export the secrets directly from the Authy app as it is locked down and proprietary.
+Authenticator Pro can generate the 7 digit codes used by Authy. Unfortunately, there is no way to export the secrets directly from the Authy app as it's locked down and proprietary.
 
 *This guide may require some advanced technical knowledge*
 

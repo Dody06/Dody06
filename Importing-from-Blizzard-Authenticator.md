@@ -34,3 +34,5 @@ The procedure is as follows:
 11. Scan the QR code with the "Authenticator Pro" app and you're good to go!
 
 12. Optional: In Authenticator Pro, change the issuer name to "Blizzard", the username to your username, and assign the "blizzard" icon manually.
+
+13. Optional: Delete `winauth.xml` from `%appdata%\WinAuth` if you don't plan on keeping WinAuth on your computer.

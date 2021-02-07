@@ -36,3 +36,8 @@ The procedure is as follows:
 12. Optional: In Authenticator Pro, change the issuer name to "Blizzard", the username to your username, and assign the "blizzard" icon manually.
 
 13. Optional: Delete `winauth.xml` from `%appdata%\WinAuth` if you don't plan on keeping WinAuth on your computer.
+
+### Sources
+
+- https://www.reddit.com/r/Blizzard/comments/6pixcg/how_to_use_a_third_party_otp_app_for_2_step/
+- https://github.com/winauth/winauth

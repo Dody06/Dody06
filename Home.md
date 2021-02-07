@@ -14,6 +14,8 @@ Welcome to the Authenticator Pro wiki!
 
 [Steam](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Steam)
 
+[Authy](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Authy)
+
 ## Frequently Asked Questions
 
 ### I've entered the code and it's not working, what should I do?

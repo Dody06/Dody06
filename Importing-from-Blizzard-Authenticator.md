@@ -25,7 +25,7 @@ The procedure is as follows:
 
 7. Enter the serial number and authenticator code from step # 2 into the "ENTER AUTHENTICATOR INFORMATION" window and then click on "Add Authenticator" ---> "Back to security".
 
-8. In the "WinAuth" window, click on "OK" ---> "Cancel" ---> "Cogwheel" ---> "Export..." ---> "Browse..." (DO NOT CHECK ANY OF THE 2 "Protect" CHECK BOXES!!!) ---> "Save" ---> "OK".
+8. In the "WinAuth" window, click on "OK" ---> "Cancel" ---> "Cogwheel" ---> "Export..." ---> "Browse..." (DO NOT CHECK ANY OF THE 2 "Protect" CHECK BOXES!) ---> "Save" ---> "OK".
 
 9. Open the "winauth-current year-current month-current day.txt" file you just created and copy its content (a single line of text) to the clipboard.
 

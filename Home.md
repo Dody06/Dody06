@@ -42,7 +42,7 @@ No. Syncing to cloud services would require the internet permission and heavy in
 
 ### Does Authenticator Pro support [service]?
 
-Probably. Authenticator Pro supports TOTP, HOTP and mOTP which covers most of the services. You can find a list of some of the supported services here: [Two Factor Auth List](https://twofactorauth.org/) (marked with "software token").
+Probably. Authenticator Pro supports TOTP, HOTP, mOTP and Steam which covers most of the services. You can find a list of some of the supported services here: [Two Factor Auth List](https://twofactorauth.org/) (marked with "software token").
 
 ### How do I download the Wear OS companion app?
 

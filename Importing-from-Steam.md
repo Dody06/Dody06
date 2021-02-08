@@ -1,3 +1,13 @@
+### Importing from other apps
+
+[Google Authenticator](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Google-Authenticator)
+
+[Blizzard Authenticator](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Blizzard-Authenticator)
+
+[Authy](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Authy)
+
+### Steam
+
 Authenticator Pro can generate the 5 character codes used by Steam. However, is does not support confirming trades.
 
 *This guide may require some advanced technical knowledge*

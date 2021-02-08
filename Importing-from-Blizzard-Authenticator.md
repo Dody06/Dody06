@@ -1,6 +1,16 @@
+### Importing from other apps
+
+[Google Authenticator](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Google-Authenticator)
+
+[Steam](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Steam)
+
+[Authy](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Authy)
+
+### Blizzard Authenticator
+
 Authenticator Pro supports 8 digit codes and as such Blizzard Authenticator accounts are supported. However, Blizzard uses a proprietary algorithm for their account setup, so the accounts must be converted to standard TOTP.
 
-## Method 1
+#### Method 1
 
 *This guide expects that you are familiar with the Python pip package system*
 
@@ -9,7 +19,7 @@ The procedure is as follows:
 - Install the required packages using pip: ``python-bna`` and ``python-qrcode`` by running ``pip3 install bna qrcode``.
 - Follow the guide for the ``python-bna`` CLI to setup a new authenticator and generate a QR code: [https://github.com/jleclanche/python-bna/blob/master/README.md](https://github.com/jleclanche/python-bna/blob/master/README.md)
 
-## Method 2 (Windows only)
+#### Method 2 (Windows only)
 
 1. Download the latest WinAuth version ("WinAuth-3.5.1.zip") from https://github.com/winauth/winauth/releases and extract its contents.
 

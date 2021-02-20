@@ -1,13 +1,3 @@
-### Importing from other apps
-
-[Google Authenticator](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Google-Authenticator)
-
-[Steam](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Steam)
-
-[Authy](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Authy)
-
-### Blizzard Authenticator
-
 Authenticator Pro supports 8 digit codes and as such Blizzard Authenticator accounts are supported. However, Blizzard uses a proprietary algorithm for their account setup, so the accounts must be converted to standard TOTP.
 
 #### Method 1

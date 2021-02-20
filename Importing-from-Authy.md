@@ -1,13 +1,3 @@
-### Importing from other apps
-
-[Google Authenticator](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Google-Authenticator)
-
-[Blizzard Authenticator](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Blizzard-Authenticator)
-
-[Steam](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Steam)
-
-### Authy
-
 Authenticator Pro can generate the 7 digit codes used by Authy. Unfortunately, there is no way to export the secrets directly from the Authy app as it's locked down and proprietary.
 
 *This guide may require some advanced technical knowledge*

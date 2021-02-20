@@ -1,13 +1,3 @@
-### Importing from other apps
-
-[Blizzard Authenticator](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Blizzard-Authenticator)
-
-[Steam](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Steam)
-
-[Authy](https://github.com/jamie-mh/AuthenticatorPro/wiki/Importing-from-Authy)
-
-### Google Authenticator
-
 Your accounts stored in Google Authenticator can be transferred to Authenticator Pro with the "Transfer Accounts" feature. They cannot be imported directly because Android security prevents apps from reading the private data of other apps.
 
 The procedure is as follows:

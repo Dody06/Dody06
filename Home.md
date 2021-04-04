@@ -26,6 +26,10 @@ Make sure that the time on your device is correct. Sync with a mobile network if
 
 No
 
+### I cannot remember the password for my backup. Can you help me?
+
+See above
+
 ### Is Authenticator Pro available / coming to iOS?
 
 No and probably not. Publishing an app on the App Store requires that you pay a annual $99 fee. Furthermore, you must own Apple hardware to develop an app in the first place.

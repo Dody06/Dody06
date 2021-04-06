@@ -46,6 +46,10 @@ Yes. Create a request in a GitHub issue or [do it yourself](https://github.com/j
 
 No. Syncing to cloud services would require the internet permission and heavy intrusive SDKs to support them. Also, they have a habit of changing the APIs often, which just requires more work.
 
+### Why doesn't Google Drive, OneDrive, Dropbox, etc... appear in the auto-backup storage location list?
+
+The dialog you see when you select a storage location is not part of Authenticator Pro but rather part of Android. The Storage Access Framework as it is named, receives varying levels of support from cloud providers. If the provider of your choice does not appear, then this is a limitation of their app. Fully supporting it is possible (Nextcloud for instance), but this may not be a high priority for the developers. A way around this would be to backup to a folder on your device and then use a 3rd party to sync the contents of that to cloud storage. First party support for cloud services will not be implemented, see above.
+
 ### Does Authenticator Pro support [service]?
 
 Probably. Authenticator Pro supports TOTP, HOTP, mOTP and Steam which covers most of the services. You can find a list of some of the supported services here: [Two Factor Auth List](https://twofactorauth.org/) (marked with "software token").

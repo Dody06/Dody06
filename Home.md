@@ -56,7 +56,7 @@ It depends if the app supports exporting your data to a file. For instance, Micr
 
 ### Does Authenticator Pro support [service]?
 
-Probably. Authenticator Pro supports TOTP, HOTP, mOTP and Steam which covers most of the services. You can find a list of some of the supported services here: [Two Factor Auth List](https://twofactorauth.org/) (marked with "software token").
+Probably. Authenticator Pro supports TOTP, HOTP, mOTP and Steam which covers most of the services.
 
 ### How do I download the Wear OS companion app?
 

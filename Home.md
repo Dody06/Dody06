@@ -34,6 +34,10 @@ Yes. Create a request in a GitHub issue or [do it yourself](https://github.com/j
 
 No. Syncing to cloud services would require the internet permission and heavy intrusive SDKs to support them. Also, they have a habit of changing the APIs often, which just requires more work.
 
+**I've entered the code and it's not working, what should I do?**
+
+Make sure that the time on your device is correct. Sync with a mobile network if possible for better accuracy.
+
 **Why doesn't Google Drive, OneDrive, Dropbox, etc... appear in the auto-backup storage location list?**
 
 The dialog you see when you select a storage location is not part of Authenticator Pro but rather part of Android. The Storage Access Framework as it is named, receives varying levels of support from cloud providers. If the provider of your choice does not appear, then this is a limitation of their app.
@@ -53,10 +57,6 @@ Probably. Authenticator Pro supports TOTP, HOTP, mOTP and Steam which covers mos
 Open Google Play on your watch and click Apps on Your Phone. You should see Authenticator Pro in the list and you can download it.
 
 ## Questions that shouldn't need answering
-
-**I've entered the code and it's not working, what should I do?**
-
-Make sure that the time on your device is correct. Sync with a mobile network if possible for better accuracy.
 
 **I cannot access my accounts because I cleared the data on my phone without creating a backup. Can you help me?**
 

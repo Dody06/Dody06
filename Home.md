@@ -60,7 +60,7 @@ Open Google Play on your watch and click Apps on Your Phone. You should see Auth
 
 **I cannot access my accounts because I cleared the data on my phone without creating a backup. Can you help me?**
 
-No
+No. Use a recovery code to gain access. If all else fails, you must contact the support of the service you are using.
 
 **I cannot remember the password for my backup. Can you help me?**
 

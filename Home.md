@@ -56,8 +56,6 @@ Probably. Authenticator Pro supports TOTP, HOTP, mOTP and Steam which covers mos
 
 Open Google Play on your watch and click Apps on Your Phone. You should see Authenticator Pro in the list and you can download it.
 
-## Questions that shouldn't need answering
-
 **I cannot access my accounts because I cleared the data on my phone without creating a backup. Can you help me?**
 
 No. Use a recovery code to gain access. If you don't have one, you must contact the support of the service you are using.

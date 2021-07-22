@@ -64,6 +64,10 @@ No. Use a recovery code to gain access. If you don't have one, you must contact 
 
 See above
 
+**I cannot remember the password for the app. Can you help me?**
+
+See above
+
 **I lost my phone, can you disable two factor authentication on my account(s)?**
 
 No, Authenticator Pro generates codes offline, I have no access to your accounts. Contact the support of the service you are using.

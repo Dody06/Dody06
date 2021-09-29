@@ -56,6 +56,10 @@ Probably. Authenticator Pro supports TOTP, HOTP, mOTP and Steam which covers mos
 
 Open Google Play on your watch and click Apps on Your Phone. You should see Authenticator Pro in the list and you can download it.
 
+**Why does the Wear OS app say "No Authenticators" with a blue cloud icon?**
+
+The blue cloud icon means that the Wear OS app cannot connect to the phone app. Assuming that the watch and the phone are paired correctly, the issue is that the F-Droid/APK versions and the Google Play versions cannot be linked. Either use the Google Play version on both the phone and the watch or use F-Droid and sideload the [latest APK](https://github.com/jamie-mh/AuthenticatorPro/releases) on the watch.
+
 **I cannot access my accounts because I cleared the data on my phone without creating a backup. Can you help me?**
 
 No. Use a recovery code to gain access. If you don't have one, you must contact the support of the service you are using.

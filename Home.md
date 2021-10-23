@@ -36,7 +36,11 @@ No. Syncing to cloud services would require the internet permission and heavy in
 
 ➡️ **I've entered the code and it's not working, what should I do?**
 
-Make sure that the time on your device is correct. Sync with a mobile network if possible for better accuracy.
+Make sure that the time on your device is correct. Sync with a mobile network if possible for better accuracy. Open [time.is](https://time.is) on your device to check the accuracy. A difference of more than a few seconds may cause invalid codes to be generated.
+
+➡️ **Authenticator Pro does not work with Facebook, PayPal, etc...**
+
+Yes it does, the issue is most certainly a problem with the time on your device. See above.
 
 ➡️ **Why doesn't Google Drive, OneDrive, Dropbox, etc... appear in the auto-backup storage location list?**
 
